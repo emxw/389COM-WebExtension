@@ -1,4 +1,4 @@
-# 389COM-WebExtension
+# 389COM-WebExtension - DE Timer
 Stopwatch and Countdown Timer Web Extension for Mozilla
 
 A simple web extension for tracking and managing your time. 
